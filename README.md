@@ -28,19 +28,22 @@ This template is your workspace for the quarter. By the end, it becomes your por
 
 - Replace this welcome content with YOUR portfolio README
 - Use the template in **Section 4** below as a starting point
-- Make it yours — no two should look the same
+- Make it yours --
 
-### Step 4: Add Your Portfolio
+### Step 4: Your Workspace Is Ready
 
-- Replace the starter `index.html` with your portfolio content
-- The file structure is already set up for you:
-  ```
-  index.html
-  css/styles.css
-  scripts/main.js
-  assets/images/, fonts/, video/
-  ```
-- This will be your GitHub Pages site
+The starter files are already set up:
+
+```
+index.html          ← Your portfolio will grow here
+css/styles.css      ← Your styles
+scripts/main.js     ← Your JavaScript (starts Week 1)
+```
+
+Your `index.html` will evolve week by week as you learn. By the end of the quarter, it becomes your portfolio.
+
+**What about your DESN 368 portfolio?**
+Keep it where it is for now. We'll address portfolio consolidation later in the quarter. This weekend, you'll do a peer audit to assess the current state of your work.
 
 ### Step 5: Enable GitHub Pages
 
@@ -53,14 +56,15 @@ This template is your workspace for the quarter. By the end, it becomes your por
 At the top of your new README, add the link to your live portfolio:
 
 ```markdown
-🔗 **[View my portfolio](https://yourusername.github.io/repo-name)**
+🔗 **[Learning Log](https://yourusername.github.io/this repo-name)**
+🔗 **[DESN368 Portfolio](https://yourusername.github.io/desn368-portfolio-repo)**
 ```
 
 ---
 
 ## Verification Checklist
 
-Before Day 2, confirm everything is set up:
+Before Thursday Jan 8th, confirm everything is set up:
 
 - [ ] Repository created from template (not forked)
 - [ ] Repository is public
@@ -81,15 +85,15 @@ Use this as a starting point for YOUR README. Copy it, then make it yours:
 ```markdown
 # DESN 378: Code + Design 2
 
-🔗 **[View my portfolio](https://yourusername.github.io/repo-name)**
+🔗 **[Learning Log](https://yourusername.github.io/this repo-name)**
+🔗 **[DESN368 Portfolio](https://yourusername.github.io/desn368-portfolio-repo)**
 
 ---
 
 ## About This Repository
 
-This is my workspace for DESN 378 at Eastern Washington University. Throughout the quarter, I'm learning to make the web behave—responding to users, animating with purpose, and building systems that adapt.
+This is my workspace for **DESN 378 Code + Design 2** also known as **Web Design 2** (or in the future, **Web Design + Code 2**) at Eastern Washington University. **The question this course asks:** How should things behave? In DESN 368, I learned how to make things look right. Here, I'm learning how to make things behave right — treating code as a design material with properties, behaviors, and constraints, just like paint, paper, or clay. Throughout the quarter, I'll work with four digital materials: CSS systems, SVG, animation libraries, and generative code — learning how each responds to manipulation and what each makes possible. Unlike courses focused on user research or backend engineering, this one asks: How does it feel? By the end, this repo will become my portfolio.
 
-By the end, this becomes my portfolio.
 
 ---
 

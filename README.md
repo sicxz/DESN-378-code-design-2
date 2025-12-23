@@ -11,7 +11,7 @@ This template is your workspace for the quarter. By the end, it becomes your por
 ### Step 1: Create Your Repository
 
 1. Click **"Use this template"** → **"Create a new repository"**
-2. Name it: `DESN378-code-design-2'
+2. Name it: `**DESN378-code-design-2**'
 3. Set to **Public**
 
 ### Step 2: Set Up Your Profiles (All Must Match)

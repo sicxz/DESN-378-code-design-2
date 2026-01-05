@@ -26,11 +26,17 @@ This template is your workspace for the quarter. By the end, it becomes your por
 
 ### Step 3: Replace This README
 
-1. Scroll down to **Section 4: README Template**
-2. Copy the entire template (everything inside the code block)
-3. Delete everything in this README
-4. Paste the template
-5. Update the placeholders with your info (username, repo name, etc.)
+1. Click on `README.md` in your repo
+2. Click the **pencil icon** (edit)
+3. Change the filename from `README.md` to `INSTRUCTIONS.md`
+4. Scroll down and click **Commit changes**
+5. Back in your repo, click **Add file** → **Create new file**
+6. Name it `README.md`
+7. Copy the template from **Section 4** in `INSTRUCTIONS.md`
+8. Paste and update placeholders with your info
+9. Commit changes
+
+Your portfolio README is now the front page. Setup guide lives in `INSTRUCTIONS.md`.
 
 ### Step 4: Your Workspace Is Ready
 

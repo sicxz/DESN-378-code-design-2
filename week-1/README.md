@@ -1,10 +1,10 @@
-# Week 1: Systems That Respond
+# Week 1: First Light
 
 Add your Week 1 work here.
 
 ## What to include
 
-- Lab submissions
+- Assignment submissions
 - Experiments and explorations
 - Notes and reflections
 

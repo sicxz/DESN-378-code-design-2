@@ -1,10 +1,10 @@
-# Week 2: Remembering Choices
+# Week 2: The Memory
 
 Add your Week 2 work here.
 
 ## What to include
 
-- Lab submissions
+- Assignment submissions
 - Experiments and explorations
 - Notes and reflections
 

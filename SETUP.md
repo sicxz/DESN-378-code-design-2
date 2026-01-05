@@ -72,4 +72,4 @@ You did the heavy lifting in DESN 368. This is just a quick check to make sure e
 
 1. Update your [PROFILE.md](./PROFILE.md) with all links
 2. Change all status indicators to ✅
-3. You're ready for Week 1
+3. You're ready for Week 0: The On-Ramp

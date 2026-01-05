@@ -72,7 +72,7 @@ At the top of your new README, add the link to your live portfolio:
 
 ## Verification Checklist
 
-Before Thursday Jan 8th, confirm everything is set up:
+Before class Wednesday Jan 7th, confirm everything is set up:
 
 - [ ] Repository created from template (not forked)
 - [ ] Repository is public

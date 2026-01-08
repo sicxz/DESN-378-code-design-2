@@ -24,11 +24,19 @@ This template is your workspace for the quarter. By the end, it becomes your por
 - Same name. Same photo. Consistent presence.
 - See the checklist in `PROFILE.md` to track your progress.
 
-### Step 3: Update This README
+### Step 3: Replace This README
 
-- Replace this welcome content with YOUR portfolio README
-- Use the template in **Section 4** below as a starting point
-- Make it yours --
+1. Click on `README.md` in your repo
+2. Click the **pencil icon** (edit)
+3. Change the filename from `README.md` to `INSTRUCTIONS.md`
+4. Scroll down and click **Commit changes**
+5. Back in your repo, click **Add file** → **Create new file**
+6. Name it `README.md`
+7. Copy the template from **Section 4** in `INSTRUCTIONS.md`
+8. Paste and update placeholders with your info
+9. Commit changes
+
+Your portfolio README is now the front page. Setup guide lives in `INSTRUCTIONS.md`.
 
 ### Step 4: Your Workspace Is Ready
 
@@ -64,7 +72,7 @@ At the top of your new README, add the link to your live portfolio:
 
 ## Verification Checklist
 
-Before Thursday Jan 8th, confirm everything is set up:
+Before class Wednesday Jan 7th, confirm everything is set up:
 
 - [ ] Repository created from template (not forked)
 - [ ] Repository is public
@@ -86,7 +94,7 @@ Use this as a starting point for YOUR README. Copy it, then make it yours:
 # DESN 378: Code + Design 2
 
 🔗 **[Learning Log](https://yourusername.github.io/this repo-name)**
-🔗 **[DESN368 Portfolio](https://yourusername.github.io/desn368-portfolio-repo)**
+🔗 **[DESN368 Portfolio](https://yourusername.github.io/desn368-portfolio-repo)** _FYI, this is just the URL to your repo; if it's still on Netlify, then use that. _
 
 ---
 
